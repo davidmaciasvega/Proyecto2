@@ -1,0 +1,4888 @@
+fileFormatVersion: 2
+guid: a2242e0d423fb544c94cada0955df0e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1936774567620465953
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_0
+  - first:
+      213: -1271560267531888025
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_1
+  - first:
+      213: 6312687881609219636
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_2
+  - first:
+      213: 3980397069386479563
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_3
+  - first:
+      213: 1150861784111255407
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_4
+  - first:
+      213: 3304195974562805181
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_5
+  - first:
+      213: 2167336887662238370
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_6
+  - first:
+      213: 8443292369320262598
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_7
+  - first:
+      213: -2982644606228565982
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_8
+  - first:
+      213: 7158854103814158367
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_9
+  - first:
+      213: 4611465043030437993
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_10
+  - first:
+      213: -3285927518709186239
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_11
+  - first:
+      213: -9222142198709559832
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_12
+  - first:
+      213: 2416425995157372442
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_13
+  - first:
+      213: 6786574689161537883
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_14
+  - first:
+      213: 3511492670242063440
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_15
+  - first:
+      213: 1245920694433514702
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_16
+  - first:
+      213: 8876311740400218791
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_17
+  - first:
+      213: -3537262161183283690
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_18
+  - first:
+      213: 1514784904057921847
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_19
+  - first:
+      213: 7971185781936028676
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_20
+  - first:
+      213: 5709454200305483536
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_21
+  - first:
+      213: -3060838993179879654
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_22
+  - first:
+      213: -1233196489557223883
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_23
+  - first:
+      213: -7013713259134647107
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_24
+  - first:
+      213: 6358650236218173367
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_25
+  - first:
+      213: -2835572726877843652
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_26
+  - first:
+      213: -3595220715541013349
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_27
+  - first:
+      213: -3311897362295702409
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_28
+  - first:
+      213: -7066052123195512121
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_29
+  - first:
+      213: 6267735221572187116
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_30
+  - first:
+      213: -21254460782130869
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_31
+  - first:
+      213: 3921136349994746102
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_32
+  - first:
+      213: 2822688037099666991
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_33
+  - first:
+      213: -155903365379617241
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_34
+  - first:
+      213: 8281401747260595762
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_35
+  - first:
+      213: 7252164836094752613
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_36
+  - first:
+      213: -3147268442076431706
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_37
+  - first:
+      213: 8850988507138328140
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_38
+  - first:
+      213: -2932341479186161466
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_39
+  - first:
+      213: -3134377013528889979
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_40
+  - first:
+      213: 194922986965512494
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_41
+  - first:
+      213: 7392744869127398211
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_42
+  - first:
+      213: -91619491456538932
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_43
+  - first:
+      213: 9162123850598531537
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_44
+  - first:
+      213: 5950124209493125608
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_45
+  - first:
+      213: 2393825131275448392
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_46
+  - first:
+      213: 8020100607755978963
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_47
+  - first:
+      213: -8682929311836588859
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_48
+  - first:
+      213: -3919813397787413258
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_49
+  - first:
+      213: -8967593854328092529
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_50
+  - first:
+      213: 3015757477601315990
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_51
+  - first:
+      213: -4397136210396955061
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_52
+  - first:
+      213: 7010414719099653029
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_53
+  - first:
+      213: -883780249486787241
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_54
+  - first:
+      213: 8211760690275115899
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_55
+  - first:
+      213: 2590993352841635261
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_56
+  - first:
+      213: -5732746811933983194
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_57
+  - first:
+      213: -2334060936517963595
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_58
+  - first:
+      213: 440200842282338237
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_59
+  - first:
+      213: 6441485635633579255
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_60
+  - first:
+      213: -4904921513004042528
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_61
+  - first:
+      213: 8716318468898732505
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_62
+  - first:
+      213: 3754441584080813484
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_63
+  - first:
+      213: 4628086650899176808
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_64
+  - first:
+      213: -8623726531729883337
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_65
+  - first:
+      213: -3251588116770273591
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_66
+  - first:
+      213: 8744014373730201447
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_67
+  - first:
+      213: -5768764602714007384
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_68
+  - first:
+      213: -1042873811239094224
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_69
+  - first:
+      213: 1563315207170253653
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_70
+  - first:
+      213: -4429118170321057613
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_71
+  - first:
+      213: 5657829932088941410
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_72
+  - first:
+      213: 62564632230978306
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_73
+  - first:
+      213: 2818860821292709833
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_74
+  - first:
+      213: -4007611335930298747
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_75
+  - first:
+      213: 1990513200762538831
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_76
+  - first:
+      213: -6817894910823555495
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_77
+  - first:
+      213: 3000473341312520370
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_78
+  - first:
+      213: -2041147155249301080
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_79
+  - first:
+      213: 4865731729213243793
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_80
+  - first:
+      213: 3789390290580187243
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_81
+  - first:
+      213: -2987575486928518702
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_82
+  - first:
+      213: -8579433227565747716
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_83
+  - first:
+      213: 536891826652264893
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_84
+  - first:
+      213: 6744602499357036678
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_85
+  - first:
+      213: 699050505601989822
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_86
+  - first:
+      213: 8365109058142596926
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_87
+  - first:
+      213: -2963330789562126471
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_88
+  - first:
+      213: -3231568969532927616
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_89
+  - first:
+      213: 7809136363793277302
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_90
+  - first:
+      213: -6001180222528897892
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_91
+  - first:
+      213: -7644518353366124595
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_92
+  - first:
+      213: -411496136225524636
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_93
+  - first:
+      213: -1531262019070293132
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_94
+  - first:
+      213: 63854938173638178
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_95
+  - first:
+      213: -5032134645599300911
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_96
+  - first:
+      213: 3063268786779999636
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_97
+  - first:
+      213: -7643778248650308348
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_98
+  - first:
+      213: 339467965678757791
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_99
+  - first:
+      213: 2349716408366406569
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_100
+  - first:
+      213: 9161730417218525989
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_101
+  - first:
+      213: 8159558891785129147
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_102
+  - first:
+      213: 2697203422232713136
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_103
+  - first:
+      213: 4608466192718079701
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_104
+  - first:
+      213: 553507208465064594
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_105
+  - first:
+      213: -91311185943393250
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_106
+  - first:
+      213: 8432063825195358407
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_107
+  - first:
+      213: 3755607228226944977
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_108
+  - first:
+      213: 6423684104145555521
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_109
+  - first:
+      213: -5456157544759116050
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_110
+  - first:
+      213: 8961515444419452505
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_111
+  - first:
+      213: -4585069948137329043
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_112
+  - first:
+      213: -5609232149300759723
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_113
+  - first:
+      213: -6570596402548217534
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_114
+  - first:
+      213: -7144467445859176202
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_115
+  - first:
+      213: -4456852412602897811
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_116
+  - first:
+      213: -6838854986579958618
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_117
+  - first:
+      213: 506980593366918605
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_118
+  - first:
+      213: 5377504060205700577
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_119
+  - first:
+      213: -8765701966607532298
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_120
+  - first:
+      213: -8294328189856211823
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_121
+  - first:
+      213: 5760839946862685327
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_122
+  - first:
+      213: 5469076131693854596
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_123
+  - first:
+      213: 7334844517803050838
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_124
+  - first:
+      213: 2308095175491552923
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_125
+  - first:
+      213: -3352063455381375278
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_126
+  - first:
+      213: -1905747907361626841
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_127
+  - first:
+      213: 7399522817057195971
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_128
+  - first:
+      213: -5959917214205015594
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_129
+  - first:
+      213: 4685547424136345910
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_130
+  - first:
+      213: -959154137022923013
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_131
+  - first:
+      213: -7375123538082581749
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_132
+  - first:
+      213: 2344288902475876026
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_133
+  - first:
+      213: 6188711589940233038
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_134
+  - first:
+      213: 771006925301948306
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_135
+  - first:
+      213: 5564374988744745545
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_136
+  - first:
+      213: -2300971930456852037
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_137
+  - first:
+      213: 4853231684445089218
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_138
+  - first:
+      213: -8346942920177236483
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_139
+  - first:
+      213: 3312007947421527278
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_140
+  - first:
+      213: -874207574973089393
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_141
+  - first:
+      213: 2950034582969174753
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_142
+  - first:
+      213: 1003308032423025655
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_143
+  - first:
+      213: -770395111322263446
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_144
+  - first:
+      213: 7755640517192014959
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_145
+  - first:
+      213: 5648169979041817846
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_146
+  - first:
+      213: -8145043925424139585
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_147
+  - first:
+      213: -4724425867958936786
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_148
+  - first:
+      213: -3626317277360326402
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_149
+  - first:
+      213: -2675863066866364535
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_150
+  - first:
+      213: 8548058569206098176
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_151
+  - first:
+      213: 8755070043066700722
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_152
+  - first:
+      213: -6188806241342951450
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_153
+  - first:
+      213: -6346098336656919891
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_154
+  - first:
+      213: 2389119674974050015
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_155
+  - first:
+      213: -7708487368241944749
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_156
+  - first:
+      213: 8987565709779152610
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_157
+  - first:
+      213: -8541026345094845127
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_158
+  - first:
+      213: 3902496995180835523
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_159
+  - first:
+      213: -6040487997424478596
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_160
+  - first:
+      213: 86594696376723271
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_161
+  - first:
+      213: -8901065411604767219
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_162
+  - first:
+      213: 8693814461707383214
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_163
+  - first:
+      213: -5882484948076992421
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_164
+  - first:
+      213: -6459126762482010341
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_165
+  - first:
+      213: 1235811105897204178
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_166
+  - first:
+      213: -6689954717348859629
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_167
+  - first:
+      213: 328387057316278145
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_168
+  - first:
+      213: -325187881111161182
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_169
+  - first:
+      213: -5057143451147112275
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_170
+  - first:
+      213: 1360331828481330914
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_171
+  - first:
+      213: 2976839864093198756
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_172
+  - first:
+      213: 8492298801337922364
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_173
+  - first:
+      213: 490112361288017923
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_174
+  - first:
+      213: 2909775817081752107
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_175
+  - first:
+      213: -8191342364202228325
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_176
+  - first:
+      213: 6542950990170605682
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_177
+  - first:
+      213: 1063779643549833002
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_178
+  - first:
+      213: -2067529916241706390
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_179
+  - first:
+      213: 6681296704197923631
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_180
+  - first:
+      213: -5498274782130674954
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_181
+  - first:
+      213: -4352899961051218189
+    second: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_182
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2915
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1255701353ec0ea10800000000000000
+      internalID: 1936774567620465953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2915
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ad2477ca28a5ee0800000000000000
+      internalID: -1271560267531888025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_2
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2915
+        width: 88
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e0b39ae2c2b9750800000000000000
+      internalID: 6312687881609219636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_3
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 2915
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc779c9ab063d3730800000000000000
+      internalID: 3980397069386479563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_4
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 2915
+        width: 86
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f0683f1bea8ff00800000000000000
+      internalID: 1150861784111255407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_5
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 2915
+        width: 86
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db577148bbcdadd20800000000000000
+      internalID: 3304195974562805181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_6
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2915
+        width: 87
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa55b19a6de31e10800000000000000
+      internalID: 2167336887662238370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_7
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 2915
+        width: 88
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbb918eca99c2570800000000000000
+      internalID: 8443292369320262598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_8
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2915
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220f28a88848b96d0800000000000000
+      internalID: -2982644606228565982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_9
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 2915
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18b0b0d0eb595360800000000000000
+      internalID: 7158854103814158367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_10
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 2915
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960f5f726073fff30800000000000000
+      internalID: 4611465043030437993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_11
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 2915
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14188a1d45a0662d0800000000000000
+      internalID: -3285927518709186239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2819
+        width: 88
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edd6c1088e540080800000000000000
+      internalID: -9222142198709559832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_13
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2819
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1eff5bc3aed88120800000000000000
+      internalID: 2416425995157372442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_14
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2819
+        width: 86
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59612519b1ce2e50800000000000000
+      internalID: 6786574689161537883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_15
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 2819
+        width: 86
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0548a299af35bb030800000000000000
+      internalID: 3511492670242063440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_16
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 2819
+        width: 87
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4840a35466a4110800000000000000
+      internalID: 1245920694433514702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_17
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 2819
+        width: 88
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a23f2acf7efe2b70800000000000000
+      internalID: 8876311740400218791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_18
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2819
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6166d3d3ece19eec0800000000000000
+      internalID: -3537262161183283690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_19
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 2819
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7312f7538d8950510800000000000000
+      internalID: 1514784904057921847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_20
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2819
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cf0fa4c375f9e60800000000000000
+      internalID: 7971185781936028676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_21
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 2819
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ff19e585e0c3f40800000000000000
+      internalID: 5709454200305483536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_22
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 2819
+        width: 88
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1759d81727b585d0800000000000000
+      internalID: -3060838993179879654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_23
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 2819
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536dea5935ec2eee0800000000000000
+      internalID: -1233196489557223883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2723
+        width: 86
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db405d873f84aae90800000000000000
+      internalID: -7013713259134647107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_25
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2723
+        width: 86
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7ecb443b67e3850800000000000000
+      internalID: 6358650236218173367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_26
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2723
+        width: 87
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f09afd0a506a8d0800000000000000
+      internalID: -2835572726877843652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_27
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 2723
+        width: 88
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c5d09bec53b1ec0800000000000000
+      internalID: -3595220715541013349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_28
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 2723
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77cbfcb65e6c902d0800000000000000
+      internalID: -3311897362295702409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_29
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 2723
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca6980180750fd90800000000000000
+      internalID: -7066052123195512121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_30
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2723
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3b304e9f77bf650800000000000000
+      internalID: 6267735221572187116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_31
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 2723
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4940373e2d74bff0800000000000000
+      internalID: -21254460782130869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_32
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2723
+        width: 88
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f00f493cbcaa6630800000000000000
+      internalID: 3921136349994746102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_33
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 2723
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ef11380d33c2720800000000000000
+      internalID: 2822688037099666991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_34
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 2723
+        width: 86
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e824717be16ddf0800000000000000
+      internalID: -155903365379617241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_35
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 2723
+        width: 86
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e54cb23037de270800000000000000
+      internalID: 8281401747260595762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_36
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2627
+        width: 87
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567b10cae7dd4a460800000000000000
+      internalID: 7252164836094752613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_37
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2627
+        width: 88
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aabc31e608a254d0800000000000000
+      internalID: -3147268442076431706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_38
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2627
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c468b07172705da70800000000000000
+      internalID: 8850988507138328140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_39
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 2627
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c027fcf5fa3e47d0800000000000000
+      internalID: -2932341479186161466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_40
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 2627
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585f57c76b47084d0800000000000000
+      internalID: -3134377013528889979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_41
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 2627
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2133a48c6184b200800000000000000
+      internalID: 194922986965512494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_42
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2627
+        width: 88
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3432e6f3a4e489660800000000000000
+      internalID: 7392744869127398211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_43
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 2627
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc62b35de808abef0800000000000000
+      internalID: -91619491456538932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_44
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2627
+        width: 86
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d14f0f5917662f70800000000000000
+      internalID: 9162123850598531537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_45
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 2627
+        width: 86
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e92a448176139250800000000000000
+      internalID: 5950124209493125608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_46
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 2627
+        width: 87
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840731c1643983120800000000000000
+      internalID: 2393825131275448392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_47
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 2627
+        width: 88
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8803ca20f1d4f60800000000000000
+      internalID: 8020100607755978963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_48
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2531
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c437268bc9008780800000000000000
+      internalID: -8682929311836588859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_49
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2531
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f470179b760a99c0800000000000000
+      internalID: -3919813397787413258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_50
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2531
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f884cced6e4bc8380800000000000000
+      internalID: -8967593854328092529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_51
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 2531
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c872d927f1ad920800000000000000
+      internalID: 3015757477601315990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_52
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 2531
+        width: 88
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e3846e9eb3af2c0800000000000000
+      internalID: -4397136210396955061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_53
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 2531
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abca145b0ff94160800000000000000
+      internalID: 7010414719099653029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_54
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2531
+        width: 86
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d75d9ab8e2cb3f0800000000000000
+      internalID: -883780249486787241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_55
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 2531
+        width: 86
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b736d5c07d806f170800000000000000
+      internalID: 8211760690275115899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_56
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2531
+        width: 87
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5268b0abe05f320800000000000000
+      internalID: 2590993352841635261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_57
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 2531
+        width: 88
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62efb6fd5213170b0800000000000000
+      internalID: -5732746811933983194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_58
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 2531
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b03bb2d1ffbb9fd0800000000000000
+      internalID: -2334060936517963595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_59
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 2531
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db701127558eb1600800000000000000
+      internalID: 440200842282338237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_60
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2435
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f488b1ae01c46950800000000000000
+      internalID: 6441485635633579255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_61
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2435
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6f83e0fd73eebb0800000000000000
+      internalID: -4904921513004042528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_62
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2435
+        width: 88
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9b2e7677596f870800000000000000
+      internalID: 8716318468898732505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_63
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 2435
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad77159ab47a1430800000000000000
+      internalID: 3754441584080813484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_64
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 2435
+        width: 86
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d9290d9444a3040800000000000000
+      internalID: 4628086650899176808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_65
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 2435
+        width: 86
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ff02ce86e525880800000000000000
+      internalID: -8623726531729883337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_66
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2435
+        width: 87
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6c600e5d900e2d0800000000000000
+      internalID: -3251588116770273591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_67
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 2435
+        width: 88
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f2911cebaf85970800000000000000
+      internalID: 8744014373730201447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_68
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2435
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a85266782b31ffa0800000000000000
+      internalID: -5768764602714007384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_69
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 2435
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03839874bc7f681f0800000000000000
+      internalID: -1042873811239094224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_70
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2339
+        width: 87
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553695be5e202b510800000000000000
+      internalID: 1563315207170253653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_71
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2243
+        width: 88
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b809c59d7c9882c0800000000000000
+      internalID: -4429118170321057613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_72
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2243
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bdbb5c856a48e40800000000000000
+      internalID: 5657829932088941410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_73
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2243
+        width: 89
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20361a793364ed000800000000000000
+      internalID: 62564632230978306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_74
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 2243
+        width: 87
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7fa646bfa9e1720800000000000000
+      internalID: 2818860821292709833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_75
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 2243
+        width: 87
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ebb0429ba1268c0800000000000000
+      internalID: -4007611335930298747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_76
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 2243
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b4d2cb539bf9b10800000000000000
+      internalID: 1990513200762538831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_77
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2243
+        width: 88
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e1b6c83b8f161a0800000000000000
+      internalID: -6817894910823555495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_78
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 2243
+        width: 88
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b056f25b92d3a920800000000000000
+      internalID: 3000473341312520370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_79
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2147
+        width: 90
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9f01d0a736ca3e0800000000000000
+      internalID: -2041147155249301080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_80
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2147
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1914a1c5a3d868340800000000000000
+      internalID: 4865731729213243793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_81
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2147
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68a859646e969430800000000000000
+      internalID: 3789390290580187243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_82
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 2147
+        width: 87
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d106f96ceff986d0800000000000000
+      internalID: -2987575486928518702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_83
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 2147
+        width: 91
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1b2c07feabfe880800000000000000
+      internalID: -8579433227565747716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_84
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2053
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db93b62954c637700800000000000000
+      internalID: 536891826652264893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_85
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2053
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680536d1d34a99d50800000000000000
+      internalID: 6744602499357036678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_86
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2054
+        width: 82
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcb67a2bb683b900800000000000000
+      internalID: 699050505601989822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_87
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1955
+        width: 85
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fedfd3e56d61470800000000000000
+      internalID: 8365109058142596926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_88
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1959
+        width: 87
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97feb28e85220e6d0800000000000000
+      internalID: -2963330789562126471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_89
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1959
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08190dfc4292723d0800000000000000
+      internalID: -3231568969532927616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_90
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1959
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671eb76f520af5c60800000000000000
+      internalID: 7809136363793277302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_91
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1960
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cb01b126687bca0800000000000000
+      internalID: -6001180222528897892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_92
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1951
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc778ac5f0739e590800000000000000
+      internalID: -7644518353366124595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_93
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1947
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464f4ddb1721a4af0800000000000000
+      internalID: -411496136225524636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_94
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1947
+        width: 74
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b844f7e4ddfbae0800000000000000
+      internalID: -1531262019070293132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_95
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1855
+        width: 110
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2268efa5abbd2e000800000000000000
+      internalID: 63854938173638178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_96
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1852
+        width: 109
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d21e1383344a2ab0800000000000000
+      internalID: -5032134645599300911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_97
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1850
+        width: 102
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d409f4bbae28a20800000000000000
+      internalID: 3063268786779999636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_98
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1935
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405475b6e28dbe590800000000000000
+      internalID: -7643778248650308348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_99
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1850
+        width: 107
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9728e2f05806b400800000000000000
+      internalID: 339467965678757791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_100
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1934
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab1693cf9edb9020800000000000000
+      internalID: 2349716408366406569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_101
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1764
+        width: 87
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b93360641052f70800000000000000
+      internalID: 9161730417218525989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_102
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1763
+        width: 84
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc8bb4b4939c3170800000000000000
+      internalID: 8159558891785129147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_103
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1763
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7162dd8346e6520800000000000000
+      internalID: 2697203422232713136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_104
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1667
+        width: 87
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6ab58e59f84ff30800000000000000
+      internalID: 4608466192718079701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_105
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1667
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292ad2d9fd37ea700800000000000000
+      internalID: 553507208465064594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_106
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1667
+        width: 88
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c03ddc5f89bbef0800000000000000
+      internalID: -91311185943393250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_107
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1666
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8d030cf55b40570800000000000000
+      internalID: 8432063825195358407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_108
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1666
+        width: 88
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df3b5240e89e1430800000000000000
+      internalID: 3755607228226944977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_109
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1667
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1405be898a2852950800000000000000
+      internalID: 6423684104145555521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_110
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1667
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeeb01afe95d744b0800000000000000
+      internalID: -5456157544759116050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_111
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1667
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e5cc901d2bd5c70800000000000000
+      internalID: 8961515444419452505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_112
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1667
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ea4f6cc2f8e50c0800000000000000
+      internalID: -4585069948137329043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_113
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1668
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5533a3644110822b0800000000000000
+      internalID: -5609232149300759723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_114
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1668
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24967a7626d80d4a0800000000000000
+      internalID: -6570596402548217534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_115
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1667
+        width: 86
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0b83406b0c9dc90800000000000000
+      internalID: -7144467445859176202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_116
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1571
+        width: 87
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a267a18541622c0800000000000000
+      internalID: -4456852412602897811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_117
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1572
+        width: 88
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a42e7e9f918711a0800000000000000
+      internalID: -6838854986579958618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_118
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1571
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5e6afd928290700800000000000000
+      internalID: 506980593366918605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_119
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1475
+        width: 88
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e518c6937bb0aa40800000000000000
+      internalID: 5377504060205700577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_120
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1475
+        width: 89
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe3a690188f95680800000000000000
+      internalID: -8765701966607532298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_121
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1475
+        width: 89
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c9c11e470a4ec80800000000000000
+      internalID: -8294328189856211823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_122
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1475
+        width: 86
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c61a0d86d92ff40800000000000000
+      internalID: 5760839946862685327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_123
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1475
+        width: 87
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ffd2fe3cf06eb40800000000000000
+      internalID: 5469076131693854596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_124
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1475
+        width: 89
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6574f5e2a3a9ac560800000000000000
+      internalID: 7334844517803050838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_125
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1475
+        width: 89
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9687f25550080020800000000000000
+      internalID: 2308095175491552923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_126
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1475
+        width: 88
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6bc6d1c041b71d0800000000000000
+      internalID: -3352063455381375278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_127
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1379
+        width: 89
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7252446106c6d85e0800000000000000
+      internalID: -1905747907361626841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_128
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1379
+        width: 89
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7871a3cc260b660800000000000000
+      internalID: 7399522817057195971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_129
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1379
+        width: 89
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d90394eede1a4da0800000000000000
+      internalID: -5959917214205015594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_130
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1379
+        width: 89
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639b4e1ae88660140800000000000000
+      internalID: 4685547424136345910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_131
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1379
+        width: 86
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfef6e9e46660b2f0800000000000000
+      internalID: -959154137022923013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_132
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1281
+        width: 87
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0337f9973c46a990800000000000000
+      internalID: -7375123538082581749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_133
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1281
+        width: 87
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab607f21656988020800000000000000
+      internalID: 2344288902475876026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_134
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1187
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e430bbfd668b2e550800000000000000
+      internalID: 6188711589940233038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_135
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1187
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f1dfda6ba23ba00800000000000000
+      internalID: 771006925301948306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_136
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1187
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942e2392291a83d40800000000000000
+      internalID: 5564374988744745545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_137
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1187
+        width: 87
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb979f6683e4110e0800000000000000
+      internalID: -2300971930456852037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_138
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1187
+        width: 87
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd2504e0842a5340800000000000000
+      internalID: 4853231684445089218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_139
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1187
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5cf5a53a3b92c80800000000000000
+      internalID: -8346942920177236483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_140
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1091
+        width: 90
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeca45f2ead96fd20800000000000000
+      internalID: 3312007947421527278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_141
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1091
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89f5c1a7d03ed3f0800000000000000
+      internalID: -874207574973089393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_142
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1091
+        width: 90
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eacef0c2d0a0f820800000000000000
+      internalID: 2950034582969174753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_143
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1091
+        width: 88
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbded8f6577ced00800000000000000
+      internalID: 1003308032423025655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_144
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1091
+        width: 89
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6060fc5ab10f45f0800000000000000
+      internalID: -770395111322263446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_145
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1091
+        width: 89
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c5bd095f191ab60800000000000000
+      internalID: 7755640517192014959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_146
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1091
+        width: 90
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f420dfaba4526e40800000000000000
+      internalID: 5648169979041817846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_147
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1092
+        width: 90
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2142144bdf6fe80800000000000000
+      internalID: -8145043925424139585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_148
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 995
+        width: 88
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b14a444b77f6eb0800000000000000
+      internalID: -4724425867958936786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_149
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 995
+        width: 89
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8731836abbcadc0800000000000000
+      internalID: -3626317277360326402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_150
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 995
+        width: 90
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fc7dfc7bc6ddad0800000000000000
+      internalID: -2675863066866364535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_151
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 995
+        width: 90
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00963c8aafdc0a670800000000000000
+      internalID: 8548058569206098176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_152
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 995
+        width: 90
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b397ac51d1408970800000000000000
+      internalID: 8755070043066700722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_153
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 995
+        width: 91
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef68016381fc1aa0800000000000000
+      internalID: -6188806241342951450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_154
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 897
+        width: 89
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2fdd59f212ee7a0800000000000000
+      internalID: -6346098336656919891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_155
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 897
+        width: 88
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd699b0bfabd72120800000000000000
+      internalID: 2389119674974050015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_156
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 897
+        width: 89
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3576a547493f50590800000000000000
+      internalID: -7708487368241944749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_157
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 896
+        width: 89
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee2ed6156f3abc70800000000000000
+      internalID: 8987565709779152610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_158
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 806
+        width: 87
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d6e5b9acd287980800000000000000
+      internalID: -8541026345094845127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_159
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 806
+        width: 87
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c278ce3754782630800000000000000
+      internalID: 3902496995180835523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_160
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 808
+        width: 85
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76d0839b20eb2ca0800000000000000
+      internalID: -6040487997424478596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_161
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 708
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747a7f4ea65a33100800000000000000
+      internalID: 86594696376723271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_162
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 709
+        width: 86
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e18c20b20197480800000000000000
+      internalID: -8901065411604767219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_163
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 709
+        width: 87
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1f83de032a6a870800000000000000
+      internalID: 8693814461707383214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_164
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 707
+        width: 87
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58e9414b173d5ea0800000000000000
+      internalID: -5882484948076992421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_165
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 709
+        width: 87
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b177a037e629c56a0800000000000000
+      internalID: -6459126762482010341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_166
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 709
+        width: 86
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d94c7837ab762110800000000000000
+      internalID: 1235811105897204178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_167
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 709
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311f8f421a18823a0800000000000000
+      internalID: -6689954717348859629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_168
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 614
+        width: 85
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f2c2ce94aae8400800000000000000
+      internalID: 328387057316278145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_169
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 520
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a67b155853bc7bf0800000000000000
+      internalID: -325187881111161182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_170
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 517
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0fe2833da61d9b0800000000000000
+      internalID: -5057143451147112275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_171
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 418
+        width: 82
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee8945379ed0e210800000000000000
+      internalID: 1360331828481330914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_172
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 419
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a94f7c951cdf4920800000000000000
+      internalID: 2976839864093198756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_173
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 324
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33f83404c4bad570800000000000000
+      internalID: 8492298801337922364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_174
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 323
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308a99a889a3dc600800000000000000
+      internalID: 490112361288017923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_175
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 227
+        width: 88
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a0e2160b9916820800000000000000
+      internalID: 2909775817081752107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_176
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 131
+        width: 88
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b952e14f481825e80800000000000000
+      internalID: -8191342364202228325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_177
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 131
+        width: 88
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278c8ef624b3dca50800000000000000
+      internalID: 6542950990170605682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_178
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 131
+        width: 88
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27541d13fd43ce00800000000000000
+      internalID: 1063779643549833002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_179
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 131
+        width: 88
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a628be3de78ae43e0800000000000000
+      internalID: -2067529916241706390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_180
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 131
+        width: 89
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2394b414fbb8bc50800000000000000
+      internalID: 6681296704197923631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_181
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 35
+        width: 86
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2ec9d773432b3b0800000000000000
+      internalID: -5498274782130674954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Mario & Luigi Dream Team - Big Tail Goomba_182
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 36
+        width: 86
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fefabe4c846793c0800000000000000
+      internalID: -4352899961051218189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_0: 1936774567620465953
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_1: -1271560267531888025
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_10: 4611465043030437993
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_100: 2349716408366406569
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_101: 9161730417218525989
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_102: 8159558891785129147
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_103: 2697203422232713136
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_104: 4608466192718079701
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_105: 553507208465064594
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_106: -91311185943393250
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_107: 8432063825195358407
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_108: 3755607228226944977
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_109: 6423684104145555521
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_11: -3285927518709186239
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_110: -5456157544759116050
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_111: 8961515444419452505
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_112: -4585069948137329043
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_113: -5609232149300759723
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_114: -6570596402548217534
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_115: -7144467445859176202
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_116: -4456852412602897811
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_117: -6838854986579958618
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_118: 506980593366918605
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_119: 5377504060205700577
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_12: -9222142198709559832
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_120: -8765701966607532298
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_121: -8294328189856211823
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_122: 5760839946862685327
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_123: 5469076131693854596
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_124: 7334844517803050838
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_125: 2308095175491552923
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_126: -3352063455381375278
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_127: -1905747907361626841
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_128: 7399522817057195971
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_129: -5959917214205015594
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_13: 2416425995157372442
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_130: 4685547424136345910
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_131: -959154137022923013
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_132: -7375123538082581749
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_133: 2344288902475876026
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_134: 6188711589940233038
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_135: 771006925301948306
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_136: 5564374988744745545
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_137: -2300971930456852037
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_138: 4853231684445089218
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_139: -8346942920177236483
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_14: 6786574689161537883
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_140: 3312007947421527278
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_141: -874207574973089393
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_142: 2950034582969174753
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_143: 1003308032423025655
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_144: -770395111322263446
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_145: 7755640517192014959
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_146: 5648169979041817846
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_147: -8145043925424139585
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_148: -4724425867958936786
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_149: -3626317277360326402
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_15: 3511492670242063440
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_150: -2675863066866364535
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_151: 8548058569206098176
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_152: 8755070043066700722
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_153: -6188806241342951450
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_154: -6346098336656919891
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_155: 2389119674974050015
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_156: -7708487368241944749
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_157: 8987565709779152610
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_158: -8541026345094845127
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_159: 3902496995180835523
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_16: 1245920694433514702
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_160: -6040487997424478596
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_161: 86594696376723271
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_162: -8901065411604767219
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_163: 8693814461707383214
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_164: -5882484948076992421
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_165: -6459126762482010341
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_166: 1235811105897204178
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_167: -6689954717348859629
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_168: 328387057316278145
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_169: -325187881111161182
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_17: 8876311740400218791
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_170: -5057143451147112275
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_171: 1360331828481330914
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_172: 2976839864093198756
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_173: 8492298801337922364
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_174: 490112361288017923
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_175: 2909775817081752107
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_176: -8191342364202228325
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_177: 6542950990170605682
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_178: 1063779643549833002
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_179: -2067529916241706390
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_18: -3537262161183283690
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_180: 6681296704197923631
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_181: -5498274782130674954
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_182: -4352899961051218189
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_19: 1514784904057921847
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_2: 6312687881609219636
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_20: 7971185781936028676
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_21: 5709454200305483536
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_22: -3060838993179879654
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_23: -1233196489557223883
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_24: -7013713259134647107
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_25: 6358650236218173367
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_26: -2835572726877843652
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_27: -3595220715541013349
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_28: -3311897362295702409
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_29: -7066052123195512121
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_3: 3980397069386479563
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_30: 6267735221572187116
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_31: -21254460782130869
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_32: 3921136349994746102
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_33: 2822688037099666991
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_34: -155903365379617241
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_35: 8281401747260595762
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_36: 7252164836094752613
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_37: -3147268442076431706
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_38: 8850988507138328140
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_39: -2932341479186161466
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_4: 1150861784111255407
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_40: -3134377013528889979
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_41: 194922986965512494
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_42: 7392744869127398211
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_43: -91619491456538932
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_44: 9162123850598531537
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_45: 5950124209493125608
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_46: 2393825131275448392
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_47: 8020100607755978963
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_48: -8682929311836588859
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_49: -3919813397787413258
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_5: 3304195974562805181
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_50: -8967593854328092529
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_51: 3015757477601315990
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_52: -4397136210396955061
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_53: 7010414719099653029
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_54: -883780249486787241
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_55: 8211760690275115899
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_56: 2590993352841635261
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_57: -5732746811933983194
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_58: -2334060936517963595
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_59: 440200842282338237
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_6: 2167336887662238370
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_60: 6441485635633579255
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_61: -4904921513004042528
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_62: 8716318468898732505
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_63: 3754441584080813484
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_64: 4628086650899176808
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_65: -8623726531729883337
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_66: -3251588116770273591
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_67: 8744014373730201447
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_68: -5768764602714007384
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_69: -1042873811239094224
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_7: 8443292369320262598
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_70: 1563315207170253653
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_71: -4429118170321057613
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_72: 5657829932088941410
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_73: 62564632230978306
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_74: 2818860821292709833
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_75: -4007611335930298747
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_76: 1990513200762538831
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_77: -6817894910823555495
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_78: 3000473341312520370
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_79: -2041147155249301080
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_8: -2982644606228565982
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_80: 4865731729213243793
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_81: 3789390290580187243
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_82: -2987575486928518702
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_83: -8579433227565747716
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_84: 536891826652264893
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_85: 6744602499357036678
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_86: 699050505601989822
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_87: 8365109058142596926
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_88: -2963330789562126471
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_89: -3231568969532927616
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_9: 7158854103814158367
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_90: 7809136363793277302
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_91: -6001180222528897892
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_92: -7644518353366124595
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_93: -411496136225524636
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_94: -1531262019070293132
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_95: 63854938173638178
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_96: -5032134645599300911
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_97: 3063268786779999636
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_98: -7643778248650308348
+      3DS - Mario & Luigi Dream Team - Big Tail Goomba_99: 339467965678757791
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
