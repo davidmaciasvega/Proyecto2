@@ -132,7 +132,8 @@ GameObject:
   - component: {fileID: 13797091}
   - component: {fileID: 13797090}
   - component: {fileID: 13797089}
-  m_Layer: 0
+  - component: {fileID: 13797092}
+  m_Layer: 5
   m_Name: Goomba
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -203,7 +204,7 @@ Transform:
   m_GameObject: {fileID: 13797086}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.6696936, y: -1.6561239, z: 0}
+  m_LocalPosition: {x: -1.708, y: -1.687, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -324,6 +325,20 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &13797092
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 13797086}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ba4da75defea8645aa58b4ebd2682f0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Profesor: {fileID: 666188264}
+  BulletPrefab: {fileID: 0}
 --- !u!1 &25613313
 GameObject:
   m_ObjectHideFlags: 0
