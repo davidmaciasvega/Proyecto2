@@ -1,3 +1,4 @@
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -5,13 +6,14 @@ using UnityEngine.SceneManagement;
 
 public class PasarNivel : MonoBehaviour
 {
-       private void OnTriggerEnter2D(Collider2D col)
+    private void OnTriggerEnter2D(Collider2D col)
     {
-        Debug.Log("Colisión detectada con: " + col.gameObject.name);
-
+        // Verifica que el objeto con el que colisiona tiene la etiqueta "Player"
         if (col.CompareTag("Player"))
         {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+            // Carga la siguiente escena (de acuerdo al índice de la escena actual)
+            int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
+            SceneManager.LoadScene(currentSceneIndex + 1);
         }
     }
 }

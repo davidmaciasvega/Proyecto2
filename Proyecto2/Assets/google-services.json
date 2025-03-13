@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "854572638819",
+    "project_id": "proyecto2---diseno-de-juegos-2",
+    "storage_bucket": "proyecto2---diseno-de-juegos-2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854572638819:android:ac2cb0768c45a8479c0e56",
+        "android_client_info": {
+          "package_name": "com.DavidMacias.PumkinHalloween"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIdf7aioPVxyUsvJI8DOxxa3Xptz3KiYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
