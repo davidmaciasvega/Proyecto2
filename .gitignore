@@ -83,6 +83,9 @@ firebase-error.log
 .DS_Store
 
 Assets/Firebase/Plugins/x86_64/*
+/Proyecto2/Library/
+/Proyecto2/Assets/Firebase/Plugins/
+
 
 # Ignorar archivos grandes
 /Assets/Firebase/Plugins/x86_64/FirebaseCppApp-12_7_0.bundle/
