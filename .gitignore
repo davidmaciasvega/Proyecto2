@@ -84,3 +84,8 @@ firebase-error.log
 
 Assets/Firebase/Plugins/x86_64/*
 
+# Ignorar archivos grandes
+/Assets/Firebase/Plugins/x86_64/FirebaseCppApp-12_7_0.bundle/
+/Assets/Firebase/Plugins/x86_64/FirebaseCppApp-12_7_0.so/
+
+
