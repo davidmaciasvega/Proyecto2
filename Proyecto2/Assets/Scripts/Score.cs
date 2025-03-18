@@ -25,7 +25,7 @@ public class Score : MonoBehaviour
     }
     else
     {
-        Debug.LogError("❌ Botón NO encontrado en Start.");
+        Debug.Log("ℹ️ Botón NO encontrado en esta escena. Esto es esperado.");
     }
 }
 
@@ -44,7 +44,8 @@ IEnumerator VerificarBoton(GameObject boton)
 
         if (firebaseManager == null)
         {
-        Debug.LogError("❌ FirebaseManager no encontrado en la escena.");
+       Debug.LogWarning("ℹ️ FirebaseManager no está en esta escena. Esto es esperado.");
+    return; 
         GameObject firebaseObj = new GameObject("FirebaseManager");
         firebaseManager = firebaseObj.AddComponent<FirebaseManager>();
         return;
@@ -55,7 +56,7 @@ IEnumerator VerificarBoton(GameObject boton)
         {
             score = monedas; // Cargar la cantidad de monedas guardadas
             scoreText.text = "Score: " + score; 
-            NivelText.text = "Nivel: " + (SceneManager.GetActiveScene().buildIndex + 1);
+            NivelText.text = "Nivel: " + (SceneManager.GetActiveScene().buildIndex );
         });
     }
 
@@ -73,7 +74,7 @@ IEnumerator VerificarBoton(GameObject boton)
             scoreText.text = "Score: " + score;
 
             // 🔥 Guardar progreso antes de destruir la moneda
-            firebaseManager.GuardarProgreso(score, SceneManager.GetActiveScene().buildIndex + 1);
+            firebaseManager.GuardarProgreso(score, SceneManager.GetActiveScene().buildIndex );
             Destroy(collision.gameObject);
         }
     }

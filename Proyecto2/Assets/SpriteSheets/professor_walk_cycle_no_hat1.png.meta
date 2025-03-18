@@ -947,7 +947,40 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      professor_walk_cycle_no_hat1_0: -4925355236239201405
+      professor_walk_cycle_no_hat1_1: 8173703698563817519
+      professor_walk_cycle_no_hat1_10: 6362758537607764156
+      professor_walk_cycle_no_hat1_11: -1500840367819894551
+      professor_walk_cycle_no_hat1_12: 4094101953551922075
+      professor_walk_cycle_no_hat1_13: -114839129800995372
+      professor_walk_cycle_no_hat1_14: 4431715346663920651
+      professor_walk_cycle_no_hat1_15: 8147896648179131848
+      professor_walk_cycle_no_hat1_16: -647892522959800431
+      professor_walk_cycle_no_hat1_17: 258248098019947414
+      professor_walk_cycle_no_hat1_18: -5702636663161989307
+      professor_walk_cycle_no_hat1_19: -5753350431556369455
+      professor_walk_cycle_no_hat1_2: -165667603612668711
+      professor_walk_cycle_no_hat1_20: -5759097530074152758
+      professor_walk_cycle_no_hat1_21: 2166748832815388542
+      professor_walk_cycle_no_hat1_22: 9196665446861635522
+      professor_walk_cycle_no_hat1_23: -8040167325727196311
+      professor_walk_cycle_no_hat1_24: 884604845666986802
+      professor_walk_cycle_no_hat1_25: -8563344996118048499
+      professor_walk_cycle_no_hat1_26: 5218792584818572040
+      professor_walk_cycle_no_hat1_27: 6915481681930998742
+      professor_walk_cycle_no_hat1_28: -3916270297797199784
+      professor_walk_cycle_no_hat1_29: 3990861608409508469
+      professor_walk_cycle_no_hat1_3: 9040704527906460488
+      professor_walk_cycle_no_hat1_30: 3218142009716583662
+      professor_walk_cycle_no_hat1_31: 2741706081394065636
+      professor_walk_cycle_no_hat1_32: 4805488976007517729
+      professor_walk_cycle_no_hat1_4: -2285890889032925902
+      professor_walk_cycle_no_hat1_5: -5127435305720132488
+      professor_walk_cycle_no_hat1_6: 4492174098439902809
+      professor_walk_cycle_no_hat1_7: -3543832886649980910
+      professor_walk_cycle_no_hat1_8: 6055562786414379649
+      professor_walk_cycle_no_hat1_9: 1158583238933144142
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,6 +1,3 @@
-
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -8,12 +5,20 @@ public class PasarNivel : MonoBehaviour
 {
     private void OnTriggerEnter2D(Collider2D col)
     {
-        // Verifica que el objeto con el que colisiona tiene la etiqueta "Player"
         if (col.CompareTag("Player"))
         {
-            // Carga la siguiente escena (de acuerdo al índice de la escena actual)
             int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
-            SceneManager.LoadScene(currentSceneIndex + 1);
+
+            // Lógica personalizada: saltar de "Inicio" (índice 0) al "Nivel 1"
+            if (currentSceneIndex == 0) 
+            {
+                SceneManager.LoadScene(1); // Nivel 1 (índice 1)
+            }
+            else
+            {
+                // Pasar al siguiente nivel normalmente
+                SceneManager.LoadScene(currentSceneIndex + 1);
+            }
         }
     }
 }

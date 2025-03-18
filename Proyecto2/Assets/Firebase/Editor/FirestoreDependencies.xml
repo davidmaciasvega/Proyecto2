@@ -4,10 +4,7 @@ FirebaseFirestore iOS and Android Dependencies.
 -->
 
 <dependencies>
-  <iosPods>
-    <iosPod name="Firebase/Firestore" version="11.9.0" minTargetSdk="13.0">
-    </iosPod>
-  </iosPods>
+
   <androidPackages>
     <androidPackage spec="com.google.firebase:firebase-firestore:25.1.2">
     </androidPackage>
